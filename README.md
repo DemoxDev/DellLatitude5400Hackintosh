@@ -25,6 +25,7 @@
 - HDMI coldplug (hotplug is OK) (**UNTESTED**)
 - *Hibernation (none of Hackintoshes can do that)*
 - Opencore boot GUI *(It currently shows up as a text menu, it works but I don't know how to make it use the GUI menu)*
+- TrackPad with gestures
 
 ## Working
 
@@ -37,7 +38,6 @@
 - USB-C (I'm using it with a docking station all the time)
 - WWAN (good speed, 4G, works fine, tho Apple kinda abandoned this feature)
 - USB ports mapped, working after sleep
-- TrackPad with gestures (visible as Magic Trackpad 2)
 - Audio, with speaker and microphone support
 - QE/CI
 - Sleep
